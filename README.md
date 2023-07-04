@@ -4,5 +4,5 @@
 
 <h2>Projects</h2>
 <p align="left">
-      <a href="https://scikit-learn.org/stable/modules/tree.html">
+      <a href="https://github.com/Thunderclap-ui/HTML.Projects/blob/main/README.md">
          <img alt="Algo 1" title="Decision Tree Model" src="https://custom-icon-badges.demolab.com/badge/-Anime Ranking-gold?style=for-the-badge&logo=anime&logoColor=black"/></a>
