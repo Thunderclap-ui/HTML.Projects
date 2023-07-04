@@ -7,7 +7,7 @@ https://htmlpreview.github.io/?https://github.com/twbs/bootstrap/gh-pages/2.3.2/
 
 ## 🚀 Projects [small-big]
 <p align="left">
-      <a href="https://github.com/Thunderclap-ui/HTML.Projects/blob/main/1.%20Anime%20Ranking%20Project/Anime%20Ranking%20Project.html">
+      <a href="https://htmlpreview.github.io/?https://github.com/Thunderclap-ui/HTML.Projects/blob/main/1.%20Anime%20Ranking%20Project/Anime%20Ranking%20Project.html">
          <img alt="Algo 1" title="Anime Ranking Project" src="https://custom-icon-badges.demolab.com/badge/-Anime Ranking-gold?style=for-the-badge&logo=anime&logoColor=black"/></a>
 </p>
 Anime Ranking project is a simple static webpage which uses simplest tags learnt as a begineer. <br />
