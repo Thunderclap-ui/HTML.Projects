@@ -4,5 +4,5 @@
 
 <h2>Projects [small-big]</h2>
 <p align="left">
-      <a href="https://github.com/Thunderclap-ui/HTML.Projects/blob/main/README.md">
+      <a href="https://github.com/Thunderclap-ui/HTML.Projects/blob/main/1.%20Anime%20Ranking%20Project/Anime%20Ranking%20Project.html">
          <img alt="Algo 1" title="Decision Tree Model" src="https://custom-icon-badges.demolab.com/badge/-Anime Ranking-gold?style=for-the-badge&logo=anime&logoColor=black"/></a>
