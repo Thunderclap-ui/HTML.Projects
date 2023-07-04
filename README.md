@@ -13,4 +13,4 @@ https://htmlpreview.github.io/?https://github.com/twbs/bootstrap/gh-pages/2.3.2/
 Anime Ranking project is a simple static webpage which uses simplest tags learnt as a begineer. <br />
 Tags: <br />
 
-**`<h1>-<h6> -> HTML Section Heading Element`** **`<p> -> Paragraph Element`** **`<hr> -> Thematic Break Element`** **`<br> -> Line Break Element`**
+[`<h1>-<h6> -> HTML Section Heading Element`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements) [`<p> -> Paragraph Element`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p) [`<hr> -> Thematic Break Element`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr) [`<br> -> Line Break Element`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br)
