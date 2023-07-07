@@ -28,7 +28,7 @@ Tags: <br />
 <br />
 
 <p align="left">
-      <a href="https://htmlpreview.github.io/?https://github.com/Thunderclap-ui/HTML.Projects/blob/main/2.%20Birthday%20Invite%20Project/Birthday%20Invite%20Project.html">
+      <a href="https://thunderclap-ui.github.io/html-portfolio/">
          <img alt="HTML Portfolio Website" title="HTML Portfolio Website" src="https://custom-icon-badges.demolab.com/badge/-MySite%20(HTML%20Portfolio)-orange?style=for-the-badge&logo=portfolio1&logoColor=black"/></a> 
 </p>
 HTML portfolio website showcases the previous projects created and uses important concepts and HTML elements. A begineer project which explores the variety of HTML playthrough. <br />
