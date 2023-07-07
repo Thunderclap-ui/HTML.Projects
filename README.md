@@ -24,3 +24,14 @@ Birthday Invite project is a static webpage which make use of some next begineer
 Tags: <br />
 
 [`<ul>, <ol> -> Ordered and Unordered List Element`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol) [`<li> -> List Item Element`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li) [`<a> -> Anchor Element`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a) [`<img> -> Image Embed Element`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img) [`Global Attributes`](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
+
+<br />
+
+<p align="left">
+      <a href="https://htmlpreview.github.io/?https://github.com/Thunderclap-ui/HTML.Projects/blob/main/2.%20Birthday%20Invite%20Project/Birthday%20Invite%20Project.html">
+         <img alt="HTML Portfolio Website" title="HTML Portfolio Website" src="https://custom-icon-badges.demolab.com/badge/-MySite%20(HTML%20Portfolio)-orange?style=for-the-badge&logo=portfolio1&logoColor=black"/></a> 
+</p>
+HTML portfolio website showcases the previous projects created and uses important concepts and HTML elements. A begineer project which explores the variety of HTML playthrough. <br />
+Tags: <br />
+
+[`<html> -> Root Element`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html) [`<head> -> Document Metadata Element`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head) [`<meta> -> Metadata Element`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta) [`<title> -> Document Title Element`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title) [`<link> -> External Resource Link Element`](https://developer.mozilla.org/en-US/docs/Web/HTML/link)
